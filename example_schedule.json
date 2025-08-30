@@ -1,0 +1,122 @@
+[
+  {
+    "name": "高等数学",
+    "teacher": "李教授",
+    "classroom": "教学楼A101",
+    "day": 0,
+    "start_section": 1,
+    "end_section": 2,
+    "color": "#FF9800",
+    "reminder": true,
+    "reminder_minutes": 10,
+    "id": "0_1_2_高等数学_李教授"
+  },
+  {
+    "name": "大学物理",
+    "teacher": "王教授",
+    "classroom": "实验楼B202",
+    "day": 0,
+    "start_section": 3,
+    "end_section": 4,
+    "color": "#2196F3",
+    "reminder": false,
+    "reminder_minutes": 10,
+    "id": "0_3_4_大学物理_王教授"
+  },
+  {
+    "name": "程序设计基础",
+    "teacher": "张老师",
+    "classroom": "计算机楼C303",
+    "day": 1,
+    "start_section": 1,
+    "end_section": 2,
+    "color": "#4CAF50",
+    "reminder": true,
+    "reminder_minutes": 15,
+    "id": "1_1_2_程序设计基础_张老师"
+  },
+  {
+    "name": "大学英语",
+    "teacher": "刘老师",
+    "classroom": "外语楼D101",
+    "day": 1,
+    "start_section": 5,
+    "end_section": 6,
+    "color": "#9C27B0",
+    "reminder": false,
+    "reminder_minutes": 10,
+    "id": "1_5_6_大学英语_刘老师"
+  },
+  {
+    "name": "马克思主义基本原理",
+    "teacher": "陈老师",
+    "classroom": "人文楼E201",
+    "day": 2,
+    "start_section": 3,
+    "end_section": 4,
+    "color": "#F44336",
+    "reminder": false,
+    "reminder_minutes": 10,
+    "id": "2_3_4_马克思主义基本原理_陈老师"
+  },
+  {
+    "name": "线性代数",
+    "teacher": "赵老师",
+    "classroom": "教学楼A202",
+    "day": 2,
+    "start_section": 7,
+    "end_section": 8,
+    "color": "#FFC107",
+    "reminder": true,
+    "reminder_minutes": 10,
+    "id": "2_7_8_线性代数_赵老师"
+  },
+  {
+    "name": "大学化学",
+    "teacher": "黄老师",
+    "classroom": "实验楼B101",
+    "day": 3,
+    "start_section": 2,
+    "end_section": 3,
+    "color": "#795548",
+    "reminder": false,
+    "reminder_minutes": 10,
+    "id": "3_2_3_大学化学_黄老师"
+  },
+  {
+    "name": "数据结构",
+    "teacher": "周老师",
+    "classroom": "计算机楼C203",
+    "day": 3,
+    "start_section": 6,
+    "end_section": 7,
+    "color": "#00BCD4",
+    "reminder": true,
+    "reminder_minutes": 15,
+    "id": "3_6_7_数据结构_周老师"
+  },
+  {
+    "name": "概率论与数理统计",
+    "teacher": "吴老师",
+    "classroom": "教学楼A301",
+    "day": 4,
+    "start_section": 1,
+    "end_section": 2,
+    "color": "#673AB7",
+    "reminder": false,
+    "reminder_minutes": 10,
+    "id": "4_1_2_概率论与数理统计_吴老师"
+  },
+  {
+    "name": "计算机网络",
+    "teacher": "郑老师",
+    "classroom": "计算机楼C101",
+    "day": 4,
+    "start_section": 4,
+    "end_section": 5,
+    "color": "#FF5722",
+    "reminder": true,
+    "reminder_minutes": 10,
+    "id": "4_4_5_计算机网络_郑老师"
+  }
+]
